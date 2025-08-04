@@ -20,10 +20,6 @@ A FastAPI-based semantic search system for Austin city permits using embeddings 
 
 1. **Clone the repository** (or navigate to your project directory):
 
-   ```bash
-   cd /Users/roshaan/Documents/pd_work
-   ```
-
 2. **Create and activate a virtual environment**:
 
    ```bash
